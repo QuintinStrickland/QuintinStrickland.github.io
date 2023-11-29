@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'QuintinStrickland', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,57 +11,38 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/quintin-strickland-040856247/',
+    instagram: 'https://www.instagram.com/quintin.strickland/',
+    email: 'quintinstrickland6@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'file:///C:/Users/stric/OneDrive/Documents/Resumepdf.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'HTML',
+    'C#',
+    'Programming',
+    'DFDs',
+    'ERDs',
     'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Longhorn Steakhouse',
+      position: 'Host',
+      from: 'November 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.longhornsteakhouse.com/locations/nc/greenville/greenville-nc/5231',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Amazon',
+      position: 'Warehouse Associate',
+      from: 'May 2022',
+      to: 'August 2022',
+      companyLink: 'https://www.amazon.com/?tag=admarketus-20&ref=pd_sl_f3b3b74b3e3b41c086cc1b64abe5a8de767e106201b158bb94bb144c&mfadid=adm',
     },
   ],
   /* certifications: [
@@ -74,17 +55,12 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'East Carolina University',
+      degree: 'Bachelor of Science in Business Adminstration ',
+      from: '2020',
+      to: 'Present',
     },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+
   ],
 
   // To hide the `My Projects` section, keep it empty.

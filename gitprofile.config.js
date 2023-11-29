@@ -66,18 +66,17 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Conduct a Security Audit',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'you will assume the role of a cybersecurity professional at XYZ Financial Services',
+      link: 'file:///C:/Users/stric/OneDrive/Documents/casestudy.pdf',
     },
     {
-      title: 'Project Name',
+      title: 'Professional Statement & Pitch Video',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'A professional statement briefly explains who I am and what you are passionate about',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'file:///C:/Users/stric/OneDrive/Documents/professional%20pitch.pdf',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
@@ -155,11 +154,7 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+ 
 };
 
 export default config;

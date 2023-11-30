@@ -75,11 +75,6 @@ const config = {
       description:'A professional statement briefly explains who I am and what you are passionate about',
       link: 'https://drive.google.com/file/d/14e5VUYPH8rVSOr1N5ZV-lCP2qdUCx1-C/view?usp=sharing',
     },
-    {
-      title: 'Enterprise Architecture & Network Project',
-      description:'Architectire Network of Estes',
-      link: 'https://drive.google.com/drive/my-drive',
-    },
      {
       title: 'Use the NIST Cybersecurity Framework to Respond to a Security Incident',
       description:'You are a cybersecurity analyst working at XYZ Financial Services',

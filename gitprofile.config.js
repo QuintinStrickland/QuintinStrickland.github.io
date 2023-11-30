@@ -17,7 +17,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'file:///C:/Users/stric/OneDrive/Documents/Resumepdf.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/drive/folders/1vDA8kW435mzbcF42ChNVN4T1o-X-YteG', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -95,8 +95,8 @@ const config = {
      {
       title: 'Cloud Computing- AWS Cloud Practicioner Badge Activity',
       description: 'AWS Badge',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'file:///C:/Users/stric/Downloads/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20231120-45-8ady7m.pdf',
+      imageUrl: 'https://drive.google.com/file/d/1_8mtZm__f4s5i5Y3GXRiRtnR_Yfx5GyB/view?usp=drive_link',
+      link: 'https://drive.google.com/file/d/1x1iKGxOokN_-w4ZnjJlkUnxVGiFnMgUT/view',
     },
     {
       title: '(ISC)2 Certified in Cybersecurity Badge Activties',

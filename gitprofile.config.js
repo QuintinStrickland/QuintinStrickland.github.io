@@ -67,53 +67,47 @@ const config = {
   externalProjects: [
     {
       title: 'Conduct a Security Audit',
-      description:
-        'you will assume the role of a cybersecurity professional at XYZ Financial Services',
+      description:'you will assume the role of a cybersecurity professional at XYZ Financial Services',
       link: 'https://docs.google.com/document/d/11vxceSiWw2nMpD3n4YFeAbm11wQFSc8R/edit?usp=drive_link&ouid=103909794234458299491&rtpof=true&sd=true',
     },
     {
       title: 'Professional Statement & Pitch Video',
-      description:
-        'A professional statement briefly explains who I am and what you are passionate about',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      description:'A professional statement briefly explains who I am and what you are passionate about',
+      link: 'https://drive.google.com/drive/my-drive',
+    },
+    {
+      title: 'Enterprise Architecture & Network Project',
+      description:'Architectire Network of Estes',
       link: 'https://drive.google.com/drive/my-drive',
     },
      {
       title: 'Use the NIST Cybersecurity Framework to Respond to a Security Incident',
-      description:
-        'You are a cybersecurity analyst working at XYZ Financial Services',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      description:'You are a cybersecurity analyst working at XYZ Financial Services',
       link: 'https://docs.google.com/document/d/1OFg5mOpejog1FXX0rxCxeI-wa0ImNBq7/edit?usp=drive_link&ouid=103909794234458299491&rtpof=true&sd=true',
     },
      {
       title: 'Cameo narrated Home Network & Heatmap Presentations Narrated PPT',
-      description:
-        'Created a Home Network & Heatmap Presentations of my household',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      description:'Created a Home Network & Heatmap Presentations of my household',
       link: 'https://docs.google.com/presentation/d/1oEXWlI--cW7qW6iBEsEMYPzIgwH5LWnH/edit?usp=drive_link&ouid=103909794234458299491&rtpof=true&sd=true',
     },
      {
       title: 'Cloud Computing- AWS Cloud Practicioner Badge Activity',
       description: 'AWS Badge',
-      imageUrl: 'https://drive.google.com/file/d/1_8mtZm__f4s5i5Y3GXRiRtnR_Yfx5GyB/view?usp=drive_link',
       link: 'https://drive.google.com/file/d/1x1iKGxOokN_-w4ZnjJlkUnxVGiFnMgUT/view',
     },
     {
       title: '(ISC)2 Certified in Cybersecurity Badge Activties',
       description: 'Linkedln (ISC)2 Badge',
-      imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://drive.google.com/file/d/137eU-fsoUOhXALFsW2thx48kMdVvewTg/view?usp=sharing',
     },
     {
       title: 'Cisco Packet Tracer',
       description: 'Cisco Packet Badge',
-      imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://drive.google.com/file/d/1D3kKAVLdLnK122CPjUmorDBabheOi7WL/view?usp=drive_link',
     },
     {
       title: 'Cybersecurity Activity',
       description: 'TryHackMe Web Application Security & PenTest Tools',
-      imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://docs.google.com/document/d/1nSQVXHzKC3fVpxCCSjjVtNsUOWncr4bR/edit?usp=drive_link&ouid=103909794234458299491&rtpof=true&sd=true',
     },
   ],

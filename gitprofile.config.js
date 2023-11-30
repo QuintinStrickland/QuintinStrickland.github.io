@@ -76,7 +76,7 @@ const config = {
       description:
         'A professional statement briefly explains who I am and what you are passionate about',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://docs.google.com/document/d/1cXiN4kSXkguS-RBZSlHD9eEcWnUQSsSV/edit?usp=drive_link&ouid=103909794234458299491&rtpof=true&sd=true',
+      link: 'https://drive.google.com/drive/my-drive',
     },
      {
       title: 'Use the NIST Cybersecurity Framework to Respond to a Security Incident',

@@ -17,7 +17,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/drive/folders/1vDA8kW435mzbcF42ChNVN4T1o-X-YteG', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1IIMtDjaj_RgOhpRk8wKSo82Vke3Ms3PT/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -102,7 +102,7 @@ const config = {
       title: '(ISC)2 Certified in Cybersecurity Badge Activties',
       description: 'Linkedln (ISC)2 Badge',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://drive.google.com/drive/folders/1vDA8kW435mzbcF42ChNVN4T1o-X-YteG',
+      link: 'https://drive.google.com/file/d/137eU-fsoUOhXALFsW2thx48kMdVvewTg/view?usp=sharing',
     },
     {
       title: 'Cisco Packet Tracer',

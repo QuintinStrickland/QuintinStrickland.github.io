@@ -71,9 +71,9 @@ const config = {
       link: 'https://docs.google.com/document/d/11vxceSiWw2nMpD3n4YFeAbm11wQFSc8R/edit?usp=drive_link&ouid=103909794234458299491&rtpof=true&sd=true',
     },
     {
-      title: 'Professional Statement & Pitch Video',
+      title: 'Professional Statement',
       description:'A professional statement briefly explains who I am and what you are passionate about',
-      link: 'https://drive.google.com/drive/my-drive',
+      link: 'https://drive.google.com/file/d/14e5VUYPH8rVSOr1N5ZV-lCP2qdUCx1-C/view?usp=sharing',
     },
     {
       title: 'Enterprise Architecture & Network Project',
